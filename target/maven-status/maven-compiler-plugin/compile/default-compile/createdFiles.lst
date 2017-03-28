@@ -1,0 +1,12 @@
+au\com\livewirelabs\assignment\StockModule.class
+au\com\livewirelabs\assignment\Logger.class
+au\com\livewirelabs\assignment\FakeStock.class
+au\com\livewirelabs\assignment\InsufficientUnitsException.class
+au\com\livewirelabs\assignment\NotRealStock.class
+au\com\livewirelabs\assignment\FakeStockExchange.class
+au\com\livewirelabs\assignment\Trade.class
+au\com\livewirelabs\assignment\Assignment.class
+au\com\livewirelabs\assignment\StockExchange.class
+au\com\livewirelabs\assignment\NotRealStockExchange.class
+au\com\livewirelabs\assignment\CSVReader.class
+au\com\livewirelabs\assignment\InvalidCodeException.class
